@@ -1,19 +1,29 @@
 # Workout-Tracker
-This app using Mongo database with a Mongoose schema and handle routes with Express.
 
-User Story
+## About
+This web application is a workout tracker. The users will be able to view and create daily workouts.
 
-As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+## Contributors
+[Michael Robil](https://github.com/michaelrobil)
 
-App Criteria
-When the user loads the home page, they have the option to create a new workout, or continue with their last workout.
-The user able to:
+## Technology
+- HTML5, CSS
+- Javascript, jQuery, Ajax
+- Node, Express
+- Heroku
+- MongoDB
 
+## License
+Unlicense
 
-Add exercises to a previous workout plan.
+## How to use this code
+When the user loads the home page, they have the option to create a new workout or continue with their last workout, also on the top left corner link to the stats page called ’Fitness Tracker Dashboard’. The user is able to add exercises to a previous workout plan, add new exercises to a new workout plan and view multiple the combined weight of multiple exercises on the stats page.
 
+Visit the app site at Heroku below. If you wish to copy and edit the code, you will need to run ```npm install``` to retrieve the necessary dependencies.
+- Application Site: https://nameless-lake-12692.herokuapp.com/
 
-Add new exercises to a new workout plan.
+## Contact
 
+- e-mail: michaelrobil@my-dev.online
+- LinkedIn: https://www.linkedin.com/in/michael-s-robil-60499869/
 
-View multiple the combined weight of multiple exercises on the stats page.
