@@ -7,6 +7,7 @@ This web application is a workout tracker. The users will be able to view and cr
 [Michael Robil](https://github.com/michaelrobil)
 
 ## Aplication Screenshot
+![07-workout](https://user-images.githubusercontent.com/56613553/74096742-3f0db900-4ac8-11ea-9b0e-4640e27baf15.png)
 
 ## Technology
 - HTML5, CSS
